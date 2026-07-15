@@ -168,7 +168,7 @@ AI_ML_Task2/
 
 # 👩‍💻 Author
 
-*Adyasha Sahu**
+**Adyasha Sahu**
 
 B.Tech Computer Science and Engineering Student
 
